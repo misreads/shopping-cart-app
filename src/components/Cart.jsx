@@ -103,7 +103,7 @@ class Cart extends Component {
         )
       })
     ) : (
-      <p>Nothing.</p>
+      <p>Nothing... yet</p>
     )
     return (
       <div className='container'>
@@ -111,7 +111,6 @@ class Cart extends Component {
           <div className='row'>
             <div className='col s6 m8 l8'>
               <h5>You have ordered:</h5>
-              <p>Total: ${this.props.total}</p>
               <ul className='collection'>{addedItems}</ul>
             </div>
             <div className='col s6 m4 l4'>
