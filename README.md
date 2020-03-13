@@ -1,4 +1,4 @@
-Prueba tecnica para Papa Johns. Se puede ocupar ### `yarn start` o ### `npm start` para iniciar la aplicacion en modo de desarrollo.
+Prueba tecnica para Papa Johns. Se puede ocupar `yarn start` o `npm start` para iniciar la aplicacion en modo de desarrollo.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
